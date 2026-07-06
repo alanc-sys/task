@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "category": "Geography",
+    "question": "What is the capital of Germany?",
+    "answer": "Berlin"
+  },
+  {
+    "id": 2,
+    "category": "History",
+    "question": "Who was the first President of the United States?",
+    "answer": "George Washington"
+  },
+  {
+    "id": 3,
+    "category": "Culture",
+    "question": "Which language is primarily spoken in Brazil?",
+    "answer": "Portuguese"
+  },
+  {
+    "id": 4,
+    "category": "Science",
+    "question": "What planet is known as the Red Planet?",
+    "answer": "Mars"
+  },
+  {
+    "id": 5,
+    "category": "Food & Cooking",
+    "question": "What ingredient is commonly used to make bread rise?",
+    "answer": "Yeast"
+  },
+  {
+    "id": 6,
+    "category": "Art",
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": 7,
+    "category": "Nature",
+    "question": "Which is the largest ocean on Earth?",
+    "answer": "Pacific Ocean"
+  }
+]
